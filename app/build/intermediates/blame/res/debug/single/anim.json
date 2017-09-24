@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\SLIIT\\Research\\TarsosDSPAndroid2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\3f06ede1c050a70bb66a65fff5e00ebbcc533f4b\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\SLIIT\\Research\\TarsosDSPAndroid2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\3f06ede1c050a70bb66a65fff5e00ebbcc533f4b\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\SLIIT\\Research\\TarsosDSPAndroid2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\3f06ede1c050a70bb66a65fff5e00ebbcc533f4b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\SLIIT\\Research\\TarsosDSPAndroid2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\3f06ede1c050a70bb66a65fff5e00ebbcc533f4b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\SLIIT\\Research\\TarsosDSPAndroid2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\3f06ede1c050a70bb66a65fff5e00ebbcc533f4b\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\SLIIT\\Research\\TarsosDSPAndroid2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\3f06ede1c050a70bb66a65fff5e00ebbcc533f4b\\output\\res\\anim\\abc_fade_in.xml"
+    }
+]

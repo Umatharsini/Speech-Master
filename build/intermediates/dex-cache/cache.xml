@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\SLIIT\Research\TarsosDSPAndroid2\app\libs\TarsosDSP-Android-2.0-bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1e716281db210fc3ef4ed201056ac50490cd706b">
+        <dex dex="E:\SLIIT\Research\TarsosDSPAndroid2\app\build\intermediates\pre-dexed\debug\TarsosDSP-Android-2.0-bin_3a7d553a895704e8f3bc0d284971c997278837a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.android\build-cache\3f06ede1c050a70bb66a65fff5e00ebbcc533f4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="E:\SLIIT\Research\TarsosDSPAndroid2\app\build\intermediates\pre-dexed\debug\classes_a53eee68a19afb75901f7192f1bad7b05ebb4f06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.android\build-cache\655d84936164f85fa7a06b43adf5b40c100df45d\output\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="E:\SLIIT\Research\TarsosDSPAndroid2\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_0d3e91f0ad0a1fdc13d2de863bf9854b6bba471b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SLIIT\Research\TarsosDSPAndroid2\app\libs\mpandroidchartlibrary-2-2-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e5455fb794bfcbeb75da252dffd907794614f7fd">
+        <dex dex="E:\SLIIT\Research\TarsosDSPAndroid2\app\build\intermediates\pre-dexed\debug\mpandroidchartlibrary-2-2-4_b8b07753552fad61db07ef647936680a73bd0077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.android\build-cache\655d84936164f85fa7a06b43adf5b40c100df45d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="E:\SLIIT\Research\TarsosDSPAndroid2\app\build\intermediates\pre-dexed\debug\classes_1722484f92aea3a2323be4ac2b97ce8bb2e852c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\SDK_2\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="E:\SLIIT\Research\TarsosDSPAndroid2\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_2e0b7eab6614dbff7669fe34b4442e9d20557af7.jar" />
+    </item>
+
+</items>
